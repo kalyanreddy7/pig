@@ -1,0 +1,113 @@
+
+.ears{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 70px;
+    margin: auto;
+    position: relative;
+    width: 300px;
+}
+.lears{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border-top-right-radius: 50% ;
+    border-top-left-radius: 50% ;
+}
+.rears{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+    border-top-right-radius: 50% ;
+    border-top-left-radius: 50% ;
+}
+
+.face{
+    height: 300px;
+    width: 300px;
+    background-color:pink ;
+    border-radius: 50%;
+    margin: auto;
+    position: relative;
+    margin-top: -70px;
+    
+}
+.eyes{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 70px;
+}
+.le{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(244, 241, 241);
+    border-radius: 50% ;
+}
+.i1{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(10, 9, 9);
+    border-radius: 50% ;
+    margin: auto;
+    display: flex;
+
+}
+.re{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(243, 239, 239);
+    border-radius: 50% ;
+
+}
+.i2{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(16, 6, 6);
+    border-radius: 50% ;
+    margin: auto;
+    display: flex;
+}
+
+.mouth{
+    height: 60px;
+    width: 115px;
+    background: rgb(237, 13, 13);
+    margin: auto;
+    margin-top: 20%;
+    border: 3px solid rgb(16, 8, 8);
+    border-radius: 40% 40% 40% 40%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.lnors{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(10, 9, 9);
+    border-radius: 50% ;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+.rnors{
+    height: 40px;
+    width: 40px;
+    background-color: rgb(10, 9, 9);
+    border-radius: 50% ;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+    
